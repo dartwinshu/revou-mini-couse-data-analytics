@@ -15,8 +15,6 @@ This repository contains my portfolio of data analytics experience completed by 
 ## Case Study
 Customer Traffic Source Analysis
 
-Case Study Question Link:
-https://docs.google.com/document/d/1tCpo4cUX0bbSuzAgCGxHDasWdT4WYWePkwJFnqmnURU/edit
+Case Study Question Link: https://docs.google.com/document/d/1tCpo4cUX0bbSuzAgCGxHDasWdT4WYWePkwJFnqmnURU/edit
 
-Case Study Result Link:
-[Customer Traffic Source Analysis_Dartwin (RMC - Data Analytics).pdf](https://github.com/dartwinshu/revou_mini_couse_data_analytics/files/9647117/Customer.Traffic.Source.Analysis_Dartwin.RMC.-.Data.Analytics.pdf)
+Case Study Result Link: [Customer Traffic Source Analysis_Dartwin (RMC - Data Analytics).pdf](https://github.com/dartwinshu/revou_mini_couse_data_analytics/files/9647117/Customer.Traffic.Source.Analysis_Dartwin.RMC.-.Data.Analytics.pdf)
