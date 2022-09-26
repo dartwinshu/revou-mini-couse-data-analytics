@@ -14,12 +14,10 @@ This repository contains my portfolio of data analytics experience completed by 
 
 ## Case Study
 1. World COVID-19 Data
-
 - Google BigQuery Link: https://console.cloud.google.com/bigquery?project=dartwin24augustdamc&supportedpurview=project&ws=!1m4!1m3!8m2!1s173616993860!2s75be553fd70549dfacc0ba9a38fb8e20
 - Tableau Link: https://public.tableau.com/app/profile/dartwin/viz/WorldCOVID-19Data_16615236043230
 
 2. Customer Traffic Source Analysis
-
 - Question Link: https://docs.google.com/document/d/1tCpo4cUX0bbSuzAgCGxHDasWdT4WYWePkwJFnqmnURU/edit
 - Result Link: [Customer Traffic Source Analysis_Dartwin (RMC - Data Analytics).pdf](https://github.com/dartwinshu/revou_mini_couse_data_analytics/files/9647117/Customer.Traffic.Source.Analysis_Dartwin.RMC.-.Data.Analytics.pdf)
 - Google BigQuery Link: https://console.cloud.google.com/bigquery?project=dartwin24augustdamc&supportedpurview=project&ws=!1m4!1m3!8m2!1s173616993860!2se3313ab56f1c4e6c9d8e9ff28799a758
