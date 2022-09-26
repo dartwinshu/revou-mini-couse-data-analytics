@@ -18,3 +18,12 @@ Customer Traffic Source Analysis
 Case Study Question Link: https://docs.google.com/document/d/1tCpo4cUX0bbSuzAgCGxHDasWdT4WYWePkwJFnqmnURU/edit
 
 Case Study Result Link: [Customer Traffic Source Analysis_Dartwin (RMC - Data Analytics).pdf](https://github.com/dartwinshu/revou_mini_couse_data_analytics/files/9647117/Customer.Traffic.Source.Analysis_Dartwin.RMC.-.Data.Analytics.pdf)
+
+## Tableau
+1. Customer Traffic Source Analysis
+
+Tableau Link: https://public.tableau.com/app/profile/dartwin/viz/CaseStudy_RevoUMiniCourse-DataAnalytics
+
+2. World COVID-19 Data
+
+Tableau Link: https://public.tableau.com/app/profile/dartwin/viz/WorldCOVID-19Data_16615236043230
