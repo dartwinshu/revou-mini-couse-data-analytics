@@ -1,4 +1,4 @@
-# revou_mini_couse_data_analytics
+# revou-mini-couse-data-analytics
 
 This repository contains my portfolio of data analytics experience completed by me in RevoU Mini Course - Data Analytics
 
